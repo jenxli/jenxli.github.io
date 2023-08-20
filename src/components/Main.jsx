@@ -38,11 +38,11 @@ const Main = () => {
     return (
         <div>
             <header id="main" ref={myRef} class="flex items-center py-20 min-h-screen text-slate-700 z-0">
-                <div id="fadeInDiv" class="flex flex-col container mx-auto items-center z-10 px-4">
-                    <h1 class="text-6xl z-10">Jennifer Li</h1>
+                <div id="fadeInDiv" class="flex flex-col container mx-auto items-center z-10 px-4 text-center">
+                    <h1 class="text-4xl xs:text-5xl sm:text-6xl z-10">Jennifer Li</h1>
                     <hr class="mt-2 w-full sm:w-4/5 lg:w-1/2 h-0.5 bg-black rounded-sm border-black "></hr>
-                    <p class="mt-2 text-xl">Software Developer & Undergraduate Researcher</p>
-                    <p class="mt-2 text-xl">Computer Science @BrownUniversity</p>
+                    <p class="mt-2 text-base xs:text-lg sm:text-xl">Software Developer & Undergraduate Researcher</p>
+                    <p class="mt-2 text-base xs:text-lg sm:text-xl">Computer Science @BrownUniversity</p>
 
                     <div class="flex flex-row">
                         <a 
@@ -50,28 +50,28 @@ const Main = () => {
                         target="_blank" 
                         rel="noopener noreferrer"
                         class="hover:cursor-pointer hover:text-slate-300 fill-slate-600 items-center scale-[0.5] justify-center transition-colors duration-400">
-                            <BsGithub class="text-8xl"/>
+                            <BsGithub class="text-7xl sm:text-8xl"/>
                         </a>
                         <a 
                         href="https://www.linkedin.com/in/jenxli/"
                         target="_blank" 
                         rel="noopener noreferrer"
                         class="hover:cursor-pointer hover:text-slate-300 fill-slate-600 items-center scale-[0.5] justify-center transition-colors duration-400">
-                            <BsLinkedin class="text-8xl"/>
+                            <BsLinkedin class="text-7xl sm:text-8xl"/>
                         </a>
                         <a
                         href="https://www.instagram.com/j.enniferli/?igshid=MmIzYWVlNDQ5Yg%3D%3D"
                         target="_blank"
                         rel="noopener noreferrer"
                         class="hover:cursor-pointer hover:text-slate-300 fill-slate-600 items-center scale-[0.5] justify-center transition-colors duration-400">
-                            <BsInstagram class="text-8xl"/>
+                            <BsInstagram class="text-7xl sm:text-8xl"/>
                         </a>
                         <a
                         href="https://www.facebook.com/profile.php?id=100022034234809&mibextid=LQQJ4d"
                         target="_blank"
                         rel="noopener noreferrer"
                         class="hover:cursor-pointer hover:text-slate-300 fill-slate-600 items-center scale-[0.5] justify-center transition-colors duration-400">
-                            <BsFacebook class="text-8xl"/>
+                            <BsFacebook class="text-7xl sm:text-8xl"/>
                         </a>
                     </div>
                 </div>
