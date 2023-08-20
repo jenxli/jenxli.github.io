@@ -7,7 +7,7 @@ import empow_logo from '../assets/images/empow_logo.png'
 const Experience = () => {
   return (
     <div>
-        <section id="experience" class="py-16 text-slate-700">
+        <section id="experience" class="py-16 text-slate-700 md:px-0 px-4">
         <div class="container mx-auto items-center md:w-3/5 xl:w-1/2">
             <h2 class="text-2xl font-normal">Experience</h2>
             <hr class="h-0.5 bg-black rounded-sm border-black "></hr>

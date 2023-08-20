@@ -12,7 +12,7 @@ const GetInTouch = () => {
 
         
         <div>
-            <section id="contact" class="py-16 text-slate-700 bg-gray-200">
+            <section id="contact" class="py-16 text-slate-700 bg-gray-200 md:px-0 px-4">
                 <div class="container mx-auto items-center md:w-3/5 xl:w-1/2">
                     <h2 class="text-2xl font-normal">Get in Touch</h2>
                     <hr class="h-0.5 bg-black rounded-sm border-black "></hr>

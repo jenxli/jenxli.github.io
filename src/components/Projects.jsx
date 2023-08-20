@@ -24,7 +24,7 @@ const Projects = () => {
 
     return (
         <div>
-            <section id="projects" class="py-16 bg-gray-200 ">
+            <section id="projects" class="py-16 bg-gray-200 md:px-0 px-4">
                 {selectedProject ? (
                     <div className="justify-center items-center flex overflow-x-hidden overflow-y-auto fixed inset-0 z-[100] w-full h-full py-6 backdrop-blur-md">
                         <div className="justify-center relative md:w-3/5 xl:w-2/5 h-full bg-slate-200 shadow-lg rounded-xl">

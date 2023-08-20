@@ -5,7 +5,7 @@ import brownu from '../assets/images/gmi_lab_logo.png'
 const About = () => {
     return (
         <div>
-            <section id="about" class="py-16 text-slate-700 ">
+            <section id="about" class="py-16 text-slate-700 md:px-0 px-4">
                 <div class="container mx-auto items-center md:w-3/5 xl:w-1/2">
                     <h2 class="text-2xl font-normal">About</h2>
                     <hr class="h-0.5 bg-black rounded-sm border-black "></hr>
@@ -23,7 +23,7 @@ const About = () => {
                 </div>
             </section>
 
-            <section id="education" class="py-6  text-slate-700">
+            <section id="education" class="py-6  text-slate-700 md:px-0 px-4">
                 <div class="container mx-auto items-center md:w-3/5 xl:w-1/2">
                     <h2 class="text-2xl">Education</h2>
                     <hr class="h-0.5 bg-black rounded-sm border-black "></hr>

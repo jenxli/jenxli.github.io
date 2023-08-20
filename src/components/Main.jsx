@@ -38,9 +38,9 @@ const Main = () => {
     return (
         <div>
             <header id="main" ref={myRef} class="flex items-center py-20 min-h-screen text-slate-700 z-0">
-                <div id="fadeInDiv" class="flex flex-col container mx-auto items-center z-10">
+                <div id="fadeInDiv" class="flex flex-col container mx-auto items-center z-10 px-4">
                     <h1 class="text-6xl z-10">Jennifer Li</h1>
-                    <hr class="mt-2 md:w-1/2 h-0.5 bg-black rounded-sm border-black "></hr>
+                    <hr class="mt-2 w-full sm:w-4/5 lg:w-1/2 h-0.5 bg-black rounded-sm border-black "></hr>
                     <p class="mt-2 text-xl">Software Developer & Undergraduate Researcher</p>
                     <p class="mt-2 text-xl">Computer Science @BrownUniversity</p>
 
