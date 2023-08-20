@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6a4dd35b.css",
+    "main.js": "/static/js/main.d5a395b4.js",
+    "static/js/787.b8bd7d6c.chunk.js": "/static/js/787.b8bd7d6c.chunk.js",
+    "static/media/proteinarium.png": "/static/media/proteinarium.9e3ceebb493c1eceebb9.png",
+    "static/media/vgc.png": "/static/media/vgc.479546598a2e60cbaa1b.png",
+    "static/media/asl.png": "/static/media/asl.7bd282a5435d5a36c957.png",
+    "static/media/gmi_lab_logo.png": "/static/media/gmi_lab_logo.adf5f6c0e9ed75d3e674.png",
+    "static/media/search.png": "/static/media/search.1507fbd3c59e5b2bfdee.png",
+    "static/media/database.png": "/static/media/database.df50507316215399e194.png",
+    "static/media/brown_cs.jpg": "/static/media/brown_cs.c4564b62e83cc09bb3f2.jpg",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.6a4dd35b.css.map": "/static/css/main.6a4dd35b.css.map",
+    "main.d5a395b4.js.map": "/static/js/main.d5a395b4.js.map",
+    "787.b8bd7d6c.chunk.js.map": "/static/js/787.b8bd7d6c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6a4dd35b.css",
+    "static/js/main.d5a395b4.js"
+  ]
+}
