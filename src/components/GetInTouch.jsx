@@ -2,7 +2,7 @@ import React from 'react'
 
 const GetInTouch = () => {
     const handleEmailClick = () => {
-        const emailAddress = 'jenniferzhli@gmail.com';
+        const emailAddress = 'jennzhli@gmail.com';
         const subject = 'Hello!';
         
         window.location.href = `mailto:${emailAddress}?subject=${encodeURIComponent(subject)}`;
