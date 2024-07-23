@@ -11,7 +11,7 @@ const About = () => {
                     <hr class="h-0.5 bg-black rounded-sm border-black "></hr>
 
                     <p class="text-gray-700 mt-6">
-                        Hi there! I'm Jenny, a third-year student at Brown University.
+                        Hi there! I'm Jenny, a rising senior at Brown University.
                         <br></br>
                         <br></br>
                         I'm currently pursuing a B.S. in computer science, with a focus on machine learning and theory.
@@ -31,8 +31,7 @@ const About = () => {
                     <p class="mt-6 text-xl col-span-2">Brown University </p>
                     <p class="text-slate-500 col-span-2">Sc.B. Computer Science, Sep 2021 – June 2025 </p>
                     <p class="mt-2 text-[18px] col-span-2 ">Revelant Coursework: </p>
-                    <p class="mb-8 text-slate-500 col-span-2">Deep Learning, Algorithms and Data Structures, Machine Learning, Discrete
-                        Structures and Probability, Linear Algebra, Computer Systems, Multivariate Calculus</p>
+                    <p class="mb-8 text-slate-500 col-span-2">Algorithms and Data Structures, Machine Learning, Discrete Structures, Linear Algebra, Computer Systems, Deep Learning in Genomics, Probability, Optimization and Stochastic Calculus, Formal Proof and Verification, Data Science, Introductory Security</p>
 
 
                 </div>
