@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.4c00c892.css",
-    "main.js": "/static/js/main.e46496d2.js",
+    "main.js": "/static/js/main.1bbf4509.js",
     "static/js/787.b8bd7d6c.chunk.js": "/static/js/787.b8bd7d6c.chunk.js",
     "static/media/proteinarium.png": "/static/media/proteinarium.9e3ceebb493c1eceebb9.png",
     "static/media/vgc.png": "/static/media/vgc.479546598a2e60cbaa1b.png",
@@ -13,11 +13,11 @@
     "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/index.html",
     "main.4c00c892.css.map": "/static/css/main.4c00c892.css.map",
-    "main.e46496d2.js.map": "/static/js/main.e46496d2.js.map",
+    "main.1bbf4509.js.map": "/static/js/main.1bbf4509.js.map",
     "787.b8bd7d6c.chunk.js.map": "/static/js/787.b8bd7d6c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4c00c892.css",
-    "static/js/main.e46496d2.js"
+    "static/js/main.1bbf4509.js"
   ]
 }
